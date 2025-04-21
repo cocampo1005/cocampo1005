@@ -25,7 +25,7 @@ Custom record management system and PDF generator for a nonprofit TNR (Trap-Neut
 ### 📆 Cat Solutions 305 Scheduling App *(In Progress)*  
 Appointment booking platform for clinic slots, tailored for mobile-first use by 80+ trappers  
 - React + Firebase  
-- Interactive time slot UI modeled after movie seat selection  
+- Interactive time slot UI 
 - Admin panel for managing appointments and availability
 ---
 
