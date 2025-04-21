@@ -1,6 +1,6 @@
 # 👋 Hey, I’m Christian Ocampo
 
-Welcome to my GitHub! I'm a freelance software developer and founder of **Solid Code Solutions**, a web and app development studio focused on clean, scalable, and user-friendly digital experiences. I specialize in building full-stack applications using **React**, **Firebase**, and modern JavaScript frameworks.
+Welcome to my GitHub! I'm a freelance software developer and founder of **Solid Code Solutions LLC**, a web and app development studio focused on clean, scalable, and user-friendly digital experiences. I specialize in building full-stack applications using **React**, **Firebase**, and modern JavaScript frameworks.
 
 ---
 
