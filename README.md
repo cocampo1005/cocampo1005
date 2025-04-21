@@ -27,7 +27,6 @@ Appointment booking platform for clinic slots, tailored for mobile-first use by 
 - React + Firebase  
 - Interactive time slot UI modeled after movie seat selection  
 - Admin panel for managing appointments and availability
-- 
 ---
 
 ## 📫 Let’s Connect
