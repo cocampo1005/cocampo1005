@@ -1,16 +1,39 @@
-## Hi there 👋
+# 👋 Hey, I’m Christian Ocampo
 
-<!--
-**cocampo1005/cocampo1005** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Welcome to my GitHub! I'm a freelance software developer and founder of **Solid Code Solutions**, a web and app development studio focused on clean, scalable, and user-friendly digital experiences. I specialize in building full-stack applications using **React**, **Firebase**, and modern JavaScript frameworks.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🔧 Tech Stack
+
+- **Frontend:** React, Vite, JavaScript, TypeScript, Tailwind CSS, Spline / Three.js
+- **Backend:** Firebase, Firestore, Node.js, Express
+- **Other Tools:** Git, Figma, WordPress, Adobe Suite (Illustrator & Photoshop)
+- **Dev Practices:** DRY Principles, Agile, Clean Code, Responsive & Accessible Design
+
+---
+
+## 🚀 Projects I’m Proud Of
+
+### 🐱 Street Cat Clinic App  
+Custom record management system and PDF generator for a nonprofit TNR (Trap-Neuter-Return) clinic.  
+- Migrated spreadsheet workflows into a structured Firestore database  
+- Built full CRUD functionality for cat patient and trapper records  
+- Integrated automated MDAS TIP PDF generation based on dynamic form inputs  
+- Authentication and role-based access control with Firebase Auth  
+
+### 📆 Cat Solutions 305 Scheduling App *(In Progress)*  
+Appointment booking platform for clinic slots, tailored for mobile-first use by 80+ trappers  
+- React + Firebase  
+- Interactive time slot UI modeled after movie seat selection  
+- Admin panel for managing appointments and availability
+- 
+---
+
+## 📫 Let’s Connect
+
+- 💼 [LinkedIn](https://www.linkedin.com/in/christianocampo-dev)  
+- 📧 Email: [christian@solidcodesolutionsllc.com](mailto:christian@solidcodesolutionsllc.com)
+- 🌐 [solidcodesolutionsllc.com](https://solidcodesolutionsllc.com) *(coming soon)*  
+
+Thanks for stopping by! Feel free to check out my pinned projects below 👇  
