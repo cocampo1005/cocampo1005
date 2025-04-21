@@ -32,8 +32,9 @@ Appointment booking platform for clinic slots, tailored for mobile-first use by 
 
 ## 📫 Let’s Connect
 
-- 💼 [LinkedIn](https://www.linkedin.com/in/christianocampo-dev)  
-- 📧 Email: [christian@solidcodesolutionsllc.com](mailto:christian@solidcodesolutionsllc.com)
+- 💼 [LinkedIn](https://www.linkedin.com/in/christianocampodev)  
+- 📧 [christian@solidcodesolutionsllc.com](mailto:christian@solidcodesolutionsllc.com)
+- 🙋🏻‍♂️ [Portfolio](https://christianocampo.com/)
 - 🌐 [solidcodesolutionsllc.com](https://solidcodesolutionsllc.com) *(coming soon)*  
 
 Thanks for stopping by! Feel free to check out my pinned projects below 👇  
