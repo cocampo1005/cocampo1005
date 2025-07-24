@@ -23,11 +23,18 @@ Custom record management system and PDF generator for a nonprofit TNR (Trap-Neut
 - Integrated automated MDAS TIP PDF generation based on dynamic form inputs  
 - Authentication and role-based access control with Firebase Auth  
 
-### 📆 Cat Solutions 305 Scheduling App *(In Progress)*  
-Appointment booking platform for clinic slots, tailored for mobile-first use by 80+ trappers  
-- React + Firebase  
-- Interactive time slot UI 
-- Admin panel for managing appointments and availability
+### 📆 Meow Max Appointment Scheduler  
+Mobile-first appointment scheduling platform for Cat Solutions 305, used by 80+ trappers and managed by clinic admins.  
+- Built with **React** and **Firebase** (Auth, Firestore, Functions)  
+- Intuitive, movie theater-style calendar UI for selecting available slots  
+- Supports two service types: **TNVR (70 slots/day)** and **Foster (10 slots/day)**  
+- Trappers can book, view, and cancel appointments with real-time slot availability  
+- Admin panel with full control: create, edit, delete appointments and manage user accounts  
+- Interactive progress bars and dynamic capacity management per day  
+- Role-based access control, secure cloud functions for auth-sensitive actions  
+- Auto-updates appointment statuses daily with a scheduled backend job  
+- Fully responsive and accessible UI, designed in a clean purple-themed interface
+
 ---
 
 ## 📫 Let’s Connect
