@@ -16,7 +16,7 @@ Welcome to my GitHub! I'm a freelance software developer and founder of **Solid 
 
 ## 🚀 Projects I’m Proud Of
 
-### 🐱 Street Cat Clinic App  
+### 🐱 Street Cat Clinic Data Management App  
 Custom record management system and PDF generator for a nonprofit TNR (Trap-Neuter-Return) clinic.  
 - Migrated spreadsheet workflows into a structured Firestore database  
 - Built full CRUD functionality for cat patient and trapper records  
