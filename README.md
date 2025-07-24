@@ -26,8 +26,7 @@ Custom record management system and PDF generator for a nonprofit TNR (Trap-Neut
 ### 📆 Meow Max Appointment Scheduler  
 Mobile-first appointment scheduling platform for Cat Solutions 305, used by 80+ trappers and managed by clinic admins.  
 - Built with **React** and **Firebase** (Auth, Firestore, Functions)  
-- Intuitive, movie theater-style calendar UI for selecting available slots  
-- Supports two service types: **TNVR (70 slots/day)** and **Foster (10 slots/day)**  
+- Intuitive calendar UI for selecting available slots    
 - Trappers can book, view, and cancel appointments with real-time slot availability  
 - Admin panel with full control: create, edit, delete appointments and manage user accounts  
 - Interactive progress bars and dynamic capacity management per day  
